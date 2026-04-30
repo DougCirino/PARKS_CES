@@ -205,7 +205,7 @@ Finally, supply-flow and demand are compared to identify mismatch areas, followe
 
 ## Suggested citation
 
-Cirino, D. W., Felappi, J. F., Lupinetti-Cunha, A., Tarragô, G. M., Carrasco, L. R., & Metzger, J. P. (in preparation). *Modeling cultural ecosystem services in megacity urban parks: empirical links between perceptions, use, and landscape features*.
+Cirino, D. W., Felappi, J. F., Lupinetti-Cunha, A., Tarragô, G. M., Carrasco, L. R., & Metzger, J. P. . *Bridging perception and landscape structure: mapping urban streetscape aesthetics as nature’s contributions to people*.
 
 ## Contact
 
